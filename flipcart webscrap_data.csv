@@ -1,0 +1,409 @@
+star,rating,discount,price,brand,storage,processor
+4.2,"50,094 Ratings ",20% off,"₹9,999","MOTOROLA g35 5G (Guava Red, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.5,"58,286 Ratings ",22% off,"₹13,999","vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"51,771 Ratings ",37% off,"₹6,249","Samsung Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.5,"58,286 Ratings ",22% off,"₹13,999","vivo T4x 5G (Pronto Purple, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.4,"73,784 Ratings ",21% off,"₹17,999","Motorola G85 5G (Olive Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Pink Lavender, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"30,632 Ratings ",27% off,"₹7,299","MOTOROLA g05 (Forest Green, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.5,"40,845 Ratings ",19% off,"₹16,999","vivo T4x 5G (Pronto Purple, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"59,361 Ratings ",30% off,"₹7,699","POCO C75 5G (Enchanted Green, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.6,"22,515 Ratings ",11% off,"₹22,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.2,"50,094 Ratings ",20% off,"₹9,999","MOTOROLA g35 5G (Midnight Black, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.3,"31,383 Ratings ",36% off,"₹13,999","Infinix Note 40X 5G (Lime Green, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.2,"2,842 Ratings ",25% off,"₹10,499","POCO M7 5G (Satin Black, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.5,"1,18,767 Ratings ",26% off,"₹18,999","Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"1,92,201 Ratings ",23% off,"₹15,999","Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,954 Ratings ,27% off,"₹6,499","REDMI A5 (Pondicherry Blue, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.1,"5,976 Ratings ",40% off,"₹5,999","REDMI A3X (Ocean Green, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.3,"59,361 Ratings ",30% off,"₹7,699","POCO C75 5G (Aqua Bliss, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.5,"1,73,829 Ratings ",23% off,"₹12,999","OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Feather Pink, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.2,"50,094 Ratings ",20% off,"₹9,999","MOTOROLA g35 5G (Guava Red, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.5,"58,286 Ratings ",22% off,"₹13,999","vivo T4x 5G (Marine Blue, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Brilliant Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"51,771 Ratings ",37% off,"₹6,249","Samsung Galaxy F05 (Twilight Blue, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.5,"58,286 Ratings ",22% off,"₹13,999","vivo T4x 5G (Pronto Purple, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.4,"73,784 Ratings ",21% off,"₹17,999","Motorola G85 5G (Olive Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Pink Lavender, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"30,632 Ratings ",27% off,"₹7,299","MOTOROLA g05 (Forest Green, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.5,"40,845 Ratings ",19% off,"₹16,999","vivo T4x 5G (Pronto Purple, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"59,361 Ratings ",30% off,"₹7,699","POCO C75 5G (Enchanted Green, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.6,"22,515 Ratings ",11% off,"₹22,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Slipstream, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.2,"50,094 Ratings ",20% off,"₹9,999","MOTOROLA g35 5G (Midnight Black, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.3,"31,383 Ratings ",36% off,"₹13,999","Infinix Note 40X 5G (Lime Green, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.2,"2,842 Ratings ",25% off,"₹10,499","POCO M7 5G (Satin Black, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.5,"1,18,767 Ratings ",26% off,"₹18,999","Motorola Edge 50 Fusion (Marshmallow Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"1,92,201 Ratings ",23% off,"₹15,999","Motorola G85 5G (Olive Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,954 Ratings ,27% off,"₹6,499","REDMI A5 (Pondicherry Blue, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.1,"5,976 Ratings ",40% off,"₹5,999","REDMI A3X (Ocean Green, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.3,"59,361 Ratings ",30% off,"₹7,699","POCO C75 5G (Aqua Bliss, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.5,"1,73,829 Ratings ",23% off,"₹12,999","OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Feather Pink, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"40,845 Ratings ",19% off,"₹16,999","vivo T4x 5G (Marine Blue, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.1,"15,582 Ratings ",26% off,"₹9,499","POCO M7 5G (Mint Green, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.5,"19,984 Ratings ",14% off,"₹23,999","vivo T4 5G (Phantom Grey, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.5,"40,845 Ratings ",23% off,"₹14,999","vivo T4x 5G (Marine Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"19,984 Ratings ",15% off,"₹21,999","vivo T4 5G (Emerald Blaze, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"30,632 Ratings ",27% off,"₹7,299","MOTOROLA g05 (Plum Red, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.1,"5,976 Ratings ",40% off,"₹5,999","REDMI A3X (Midnight Black, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.5,"9,667 Ratings ",20% off,"₹19,999","OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Icy Purple, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.4,"16,294 Ratings ",25% off,"₹8,199","realme C61 (Marble Black, 128 GB)  (6 GB RAM)",128 GB,Unisoc
+4.3,954 Ratings ,27% off,"₹6,499","REDMI A5 (Jaisalmer Gold, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.4,"1,92,201 Ratings ",23% off,"₹15,999","Motorola G85 5G (Cobalt Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"50,094 Ratings ",20% off,"₹9,999","MOTOROLA g35 5G (Leaf Green, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.5,"19,984 Ratings ",14% off,"₹23,999","vivo T4 5G (Emerald Blaze, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.3,"8,678 Ratings ",30% off,"₹13,999","REDMI 13 5G (Orchid Pink, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"36,322 Ratings ",30% off,"₹12,499","REDMI 13 5G (Orchid Pink, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.6,"22,515 Ratings ",11% off,"₹22,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Viva Magenta, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.4,414 Ratings ,21% off,"₹13,690","IQOO Z10X 5G (Titanium, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"9,667 Ratings ",21% off,"₹17,999","OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Prism Black, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"31,383 Ratings ",36% off,"₹13,999","Infinix Note 40X 5G (Palm Blue, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.3,"59,361 Ratings ",30% off,"₹7,699","POCO C75 5G (Silver Stardust, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.4,"19,930 Ratings ",42% off,"₹14,084","Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)  (6 GB RAM)",128 GB,Exynos
+4.5,"1,18,767 Ratings ",26% off,"₹18,999","Motorola Edge 50 Fusion (Hot Pink, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"15,891 Ratings ",28% off,"₹19,999","realme P2 Pro 5G (Parrot Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"7,052 Ratings ",23% off,"₹11,499","Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Pearl Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"3,624 Ratings ",13% off,"₹25,999","vivo T4 5G (Phantom Grey, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"1,92,201 Ratings ",23% off,"₹15,999","Motorola G85 5G (Viva Magenta, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"8,969 Ratings ",27% off,"₹15,999","Infinix Note 50s 5G+ (Burgundy Red, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"7,654 Ratings ",19% off,"₹18,499","realme P3 5G (Space Silver, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.3,954 Ratings ,27% off,"₹6,499","REDMI A5 (Just Black, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.3,705 Ratings ,33% off,"₹7,999","vivo Y19e (Titanium Silver, 64 GB)  (4 GB RAM)",64 GB,Unisoc
+4.4,"8,969 Ratings ",27% off,"₹15,999","Infinix Note 50s 5G+ (Marine Drift, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"1,73,829 Ratings ",23% off,"₹12,999","OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Breeze Blue, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"15,344 Ratings ",17% off,"₹13,999","realme P3x 5G (Midnight Blue, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"1,73,829 Ratings ",23% off,"₹12,999","OPPO K12x 5G with 45W SUPERVOOC Charger In-The-Box (Midnight Violet, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"9,322 Ratings ",18% off,"₹1,802","Nokia 130 Music Dual Sim, Music Player, Wireless FM Radio and Dedicated Buttons  (Dark Blue)",4 MB,6261D
+4.4,"1,92,201 Ratings ",23% off,"₹15,999","Motorola G85 5G (Urban Grey, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.5,"1,18,767 Ratings ",26% off,"₹18,999","Motorola Edge 50 Fusion (Forest Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.5,"3,624 Ratings ",13% off,"₹25,999","vivo T4 5G (Emerald Blaze, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Viva Magenta, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"13,002 Ratings ",41% off,"₹19,999","Samsung Galaxy A35 5G (Awesome Iceblue, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.2,"11,035 Ratings ",30% off,"₹9,699","Samsung Galaxy F06 5G (Bahama Blue, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.4,"10,584 Ratings ",20% off,"₹15,999","realme P3 5G (Nebula Pink, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.2,"1,441 Ratings ",25% off,"₹11,999","Samsung Galaxy F16 5G (Bling Black, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.5,"76,795 Ratings ",23% off,"₹22,999","vivo T3 Pro 5G (Sandstone Orange, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"8,969 Ratings ",27% off,"₹15,999","Infinix Note 50s 5G+ (Titanium Grey, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"19,930 Ratings ",43% off,"₹13,914","Samsung Galaxy M35 5G (DayBreak Blue, 128 GB)  (6 GB RAM)",128 GB,Exynos
+4.4,"3,757 Ratings ",52% off,"₹20,999","OPPO Reno 12 5G (Matte Brown, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.2,"81,498 Ratings ",20% off,"₹15,999","Motorola g64 5G (Berry Red, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.3,"2,209 Ratings ",32% off,"₹6,767","Samsung M05 (Mint Green, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.5,"9,667 Ratings ",21% off,"₹17,999","OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Icy Purple, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"8,969 Ratings ",28% off,"₹17,999","Infinix Note 50s 5G+ (Titanium Grey, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"8,678 Ratings ",30% off,"₹13,999","REDMI 13 5G (Black Diamond, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.1,"4,886 Ratings ",27% off,"₹11,199","Samsung Galaxy F06 5G (Bahama Blue, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"11,754 Ratings ",31% off,"₹12,999","POCO M7 Pro 5G (Lavender Frost, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"15,582 Ratings ",26% off,"₹9,499","POCO M7 5G (Ocean Blue, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.4,"19,930 Ratings ",44% off,"₹13,692","Samsung Galaxy M35 5G (Thunder Grey, 128 GB)  (6 GB RAM)",128 GB,Exynos
+4.2,"81,498 Ratings ",20% off,"₹15,999","Motorola g64 5G (Ice Lilac, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.3,"1,851 Ratings ",23% off,"₹12,999","Infinix Note 50x 5G+ (Titanium Grey, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.6,"11,530 Ratings ",10% off,"₹24,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"16,294 Ratings ",25% off,"₹8,199","realme C61 (Safari Green, 128 GB)  (6 GB RAM)",128 GB,Unisoc
+4.3,"7,052 Ratings ",23% off,"₹11,499","Infinix Note 50x 5G+ (Sea Breeze Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"76,795 Ratings ",21% off,"₹24,999","vivo T3 Pro 5G (Emerald Green, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.1,"1,05,792 Ratings ",40% off,"₹5,399","POCO C61 - Locked with Airtel Prepaid (Mystical Green, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.2,"36,322 Ratings ",31% off,"₹12,325","REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.5,"9,667 Ratings ",20% off,"₹19,999","OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Prism Black, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Brilliant Green, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.4,"1,47,852 Ratings ",25% off,"₹20,999","Motorola Edge 50 Fusion (Forest Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"4,857 Ratings ",20% off,"₹7,149","realme Narzo N61 (Vyage Blue, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.4,414 Ratings ,21% off,"₹13,690","IQOO Z10X 5G (Ultramarine, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"7,119 Ratings ",32% off,"₹16,999","POCO X7 5G (Cosmic Silver, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.2,"2,080 Ratings ",37% off,"₹11,300","IQOO Z9x (Storm Grey, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.5,"20,500 Ratings ",21% off,"₹10,999","realme C63 5G Charger in the Box (Forest Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Brilliant Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"2,695 Ratings ",17% off,"₹33,999","MOTOROLA Edge 60 Pro (Pantone Dazzling Blue, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.5,"1,872 Ratings ",31% off,"₹31,999","realme GT 6 (Razor Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"13,002 Ratings ",41% off,"₹19,999","Samsung Galaxy A35 5G (Awesome Lilac, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Berry Red, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"7,078 Ratings ",10% off,"₹24,999","realme 14 Pro 5G (Jaipur Pink, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.1,"15,706 Ratings ",25% off,"₹1,349",itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice  (Black),32 MB,Unisoc
+4.3,"11,754 Ratings ",31% off,"₹12,999","POCO M7 Pro 5G (Lunar Dust, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"15,706 Ratings ",25% off,"₹1,349",itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice  (Light Green),32 MB,Unisoc
+4.1,"15,582 Ratings ",26% off,"₹9,499","POCO M7 5G (Satin Black, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.4,"7,125 Ratings ",17% off,"₹18,999","CMF by Nothing Phone 2 Pro (White, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"1,51,466 Ratings ",26% off,"₹13,999","vivo T3x 5G (Crimson Bliss, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.1,"1,506 Ratings ",33% off,₹993,hmd 105 Dual Sim  (Purple),4 MB,Snapdragon
+4.3,"8,678 Ratings ",30% off,"₹13,999","REDMI 13 5G (Hawaiian Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,810 Ratings ,25% off,"₹7,499","REDMI A5 (Pondicherry Blue, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.3,"4,857 Ratings ",15% off,"₹7,270","realme Narzo N61 (Marble Black, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.4,"7,125 Ratings ",17% off,"₹18,999","CMF by Nothing Phone 2 Pro (Light Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"16,433 Ratings ",30% off,"₹10,499","Infinix Hot 50 5G (Sage Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"5,104 Ratings ",26% off,"₹9,499","Infinix Hot 50 5G (Sage Green, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.2,"1,096 Ratings ",25% off,"₹11,999","Tecno Pova 6 Neo 5G (Aurora Cloud, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"2,286 Ratings ",25% off,"₹6,699","Infinix SMART 9 HD (Neo Titanium, 64 GB)  (3 GB RAM)",64 GB,Mediatek
+4.2,"2,442 Ratings ",26% off,"₹9,499","REDMI 14C 5G (Stardust Purple, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.2,"4,684 Ratings ",35% off,"₹12,999","Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.1,"1,506 Ratings ",33% off,₹996,hmd 105 Dual Sim  (Black),4 MB,Snapdragon
+4.3,"2,084 Ratings ",42% off,"₹15,031","Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.2,"2,842 Ratings ",25% off,"₹10,499","POCO M7 5G (Mint Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"9,770 Ratings ",33% off,"₹11,999","POCO M6 Plus 5G (Misty Lavender, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.6,"11,530 Ratings ",10% off,"₹24,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"4,595 Ratings ",16% off,"₹14,999","realme P3x 5G (Midnight Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"6,400 Ratings ",27% off,"₹18,758","IQOO Z9s 5G (Titanium Matte, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"59,361 Ratings ",21% off,"₹8,999","POCO C75 5G (Aqua Bliss, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.5,"19,984 Ratings ",15% off,"₹21,999","vivo T4 5G (Phantom Grey, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"5,104 Ratings ",26% off,"₹9,499","Infinix Hot 50 5G (Vibrant Blue, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.5,"1,676 Ratings ",8% off,"₹33,999","Nothing Phone (3a) Pro (Grey, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"73,784 Ratings ",21% off,"₹17,999","Motorola G85 5G (Cobalt Blue, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"14,697 Ratings ",30% off,"₹17,999","realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"2,695 Ratings ",17% off,"₹33,999","MOTOROLA Edge 60 Pro (Pantone Sparkling Grape, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,214 Ratings ,20% off,"₹15,075","IQOO Z10X 5G (Titanium, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"99,236 Ratings ",25% off,"₹11,499","vivo T3 Lite 5G (Vibrant Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.2,810 Ratings ,25% off,"₹7,499","REDMI A5 (Just Black, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4,"1,136 Ratings ",36% off,₹949,Kechaoda A26_Pink  (Pink),16 GB,NA
+4.2,"2,241 Ratings ",22% off,"₹13,499","Samsung Galaxy F16 5G (Bling Black, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4,"2,454 Ratings ",32% off,₹948,Kechaoda A26_black  (Black),16 GB,NA
+4.2,"2,241 Ratings ",22% off,"₹13,499","Samsung Galaxy F16 5G (Glam Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"5,104 Ratings ",26% off,"₹9,499","Infinix Hot 50 5G (Dreamy Purple, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.1,"40,234 Ratings ",31% off,"₹1,020",Kechaoda K115  (Pink),32 MB,NA
+4.3,"7,119 Ratings ",32% off,"₹16,999","POCO X7 5G (Yellow, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"20,894 Ratings ",18% off,"₹17,099","OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)  (8 GB RAM)",128 GB,Qualcomm
+4.5,493 Ratings ,17% off,"₹42,869","OnePlus 13R 5G (Astral Trail, 512 GB)  (16 GB RAM)",512 GB,Snapdragon
+4.4,"7,125 Ratings ",16% off,"₹20,999","CMF by Nothing Phone 2 Pro (White, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"13,002 Ratings ",40% off,"₹21,999","Samsung Galaxy A35 5G (Awesome Navy, 256 GB)  (8 GB RAM)",256 GB,Exynos
+4.6,"2,58,574 Ratings ",6% off,"₹74,900","Apple iPhone 15 (Blue, 256 GB)",256 GB,Apple
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Berry Red, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"8,608 Ratings ",20% off,"₹31,999","vivo T3 Ultra (Frost Green, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"10,584 Ratings ",20% off,"₹15,999","realme P3 5G (Nebula Pink, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.3,"1,851 Ratings ",23% off,"₹12,999","Infinix Note 50x 5G+ (Sea Breeze Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"18,873 Ratings ",22% off,"₹27,999","vivo T3 Ultra (Frost Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.2,"1,566 Ratings ",2% off,"₹9,295","realme Narzo N61 (Marble Black, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Pearl Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"8,829 Ratings ",35% off,"₹12,190","IQOO z9x (Storm Grey, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.4,"6,400 Ratings ",27% off,"₹18,752","IQOO Z9s 5G (Titanium Matte, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"6,400 Ratings ",29% off,"₹18,330","IQOO Z9s 5G (Onyx Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"63,419 Ratings ",28% off,"₹29,999","Motorola Edge 50 Pro 5G with 125W Charger (Luxe Lavender, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"1,26,411 Ratings ",24% off,"₹18,999","vivo T3 5G (Cosmic Blue, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.6,"1,014 Ratings ",8% off,"₹54,900","Apple iPhone 16e (White, 128 GB)",128 GB,Apple
+4.4,"20,894 Ratings ",18% off,"₹17,140","OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)  (8 GB RAM)",128 GB,Qualcomm
+4.2,"2,635 Ratings ",24% off,"₹16,154","Samsung Galaxy A16 5G (Blue Black, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"8,969 Ratings ",28% off,"₹17,999","Infinix Note 50s 5G+ (Titanium Grey, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"26,715 Ratings ",33% off,"₹19,999","Motorola Edge 50 Neo (PANTONE Poinciana, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.6,"1,807 Ratings ",,"₹80,999","Samsung Galaxy S25 5G (Silver Shadow, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.5,973 Ratings ,,"₹49,999","Google Pixel 9A (Obsidian, 256 GB)  (8 GB RAM)",256 GB,Google
+4.6,"2,832 Ratings ",36% off,"₹85,481","Samsung Galaxy S24 Ultra 5G (Titanium Gray, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"7,654 Ratings ",19% off,"₹16,999","realme P3 5G (Nebula Pink, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"1,26,411 Ratings ",24% off,"₹18,999","vivo T3 5G (Crystal Flake, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4,"30,641 Ratings ",25% off,"₹1,499",Kechaoda K112  (Green),64 MB,MediaTek MT6261D Number of cores: 1 GPU: -
+4.3,"31,383 Ratings ",36% off,"₹13,999","Infinix Note 40X 5G (Lime Green, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.6,"2,58,574 Ratings ",7% off,"₹64,900","Apple iPhone 15 (Pink, 128 GB)",128 GB,Apple
+4.2,"2,080 Ratings ",36% off,"₹11,349","IQOO Z9x (Storm Grey, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.5,"20,500 Ratings ",21% off,"₹10,999","realme C63 5G Charger in the Box (Forest Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.4,"1,26,411 Ratings ",23% off,"₹17,499","vivo T3 5G (Cosmic Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.6,"4,228 Ratings ",30% off,"₹55,999","Samsung Galaxy S24 5G (Marble Gray, 256 GB)  (8 GB RAM)",256 GB,Exynos
+4.6,"1,807 Ratings ",,"₹80,999","Samsung Galaxy S25 5G (Icyblue, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"73,784 Ratings ",21% off,"₹17,999","Motorola G85 5G (Viva Magenta, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"7,078 Ratings ",10% off,"₹26,999","realme 14 Pro 5G (Pearl White, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"13,160 Ratings ",6% off,"₹27,999","Nothing Phone (2a) Plus (Grey, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"8,829 Ratings ",35% off,"₹12,190","IQOO z9x (Tornado Green, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.3,"7,119 Ratings ",32% off,"₹16,999","POCO X7 5G (Yellow, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.6,"4,228 Ratings ",33% off,"₹49,999","Samsung Galaxy S24 5G (Amber Yellow, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.5,"18,873 Ratings ",21% off,"₹29,999","vivo T3 Ultra (Lunar Gray, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.6,"2,506 Ratings ",5% off,"₹84,900","Apple iPhone 16 Plus (White, 128 GB)",128 GB,Apple
+4,"30,641 Ratings ",25% off,"₹1,499",Kechaoda K112  (Black),64 MB,No
+4.3,"13,002 Ratings ",41% off,"₹19,999","Samsung Galaxy A35 5G (Awesome Iceblue, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.4,"7,125 Ratings ",16% off,"₹20,999","CMF by Nothing Phone 2 Pro (Black, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"4,857 Ratings ",15% off,"₹7,270","realme Narzo N61 (Marble Black, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.4,"77,680 Ratings ",20% off,"₹15,999","CMF by Nothing Phone 1 (Blue, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"2,084 Ratings ",42% off,"₹15,031","Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.6,"3,12,259 Ratings ",8% off,"₹54,999","Apple iPhone 14 (Starlight, 128 GB)",128 GB,Apple
+4.4,"19,930 Ratings ",42% off,"₹14,084","Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)  (6 GB RAM)",128 GB,Exynos
+4.2,"1,781 Ratings ",28% off,"₹14,272","Samsung Galaxy A16 5G (Light Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.4,414 Ratings ,21% off,"₹13,690","IQOO Z10X 5G (Ultramarine, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"20,500 Ratings ",21% off,"₹10,999","realme C63 5G Charger in the Box (Starry Gold, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"3,605 Ratings ",13% off,"₹12,999","realme C63 5G Charger in the Box (Starry Gold, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"1,26,411 Ratings ",23% off,"₹17,499","vivo T3 5G (Crystal Flake, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"14,697 Ratings ",30% off,"₹17,999","realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Brilliant Green, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.5,"3,605 Ratings ",13% off,"₹12,999","realme C63 5G Charger in the Box (Forest Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"31,383 Ratings ",36% off,"₹13,999","Infinix Note 40X 5G (Palm Blue, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.6,"1,014 Ratings ",8% off,"₹54,900","Apple iPhone 16e (Black, 128 GB)",128 GB,Apple
+4.3,"1,851 Ratings ",23% off,"₹12,999","Infinix Note 50x 5G+ (Titanium Grey, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"1,851 Ratings ",23% off,"₹12,999","Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,637 Ratings ,17% off,"₹23,117","IQOO Z10 5G (Black, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.2,"50,094 Ratings ",20% off,"₹9,999","MOTOROLA g35 5G (Guava Red, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.3,705 Ratings ,33% off,"₹7,999","vivo Y19e (Titanium Silver, 64 GB)  (4 GB RAM)",64 GB,Unisoc
+4.4,"6,400 Ratings ",15% off,"₹10,999","realme C63 5G Charger in the Box (Forest Green, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Viva Magenta, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.3,"7,052 Ratings ",23% off,"₹11,499","Infinix Note 50x 5G+ (Sea Breeze Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"7,052 Ratings ",23% off,"₹11,499","Infinix Note 50x 5G+ (Enchanted Purple, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"7,052 Ratings ",23% off,"₹11,499","Infinix Note 50x 5G+ (Titanium Grey, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"5,403 Ratings ",21% off,"₹8,649","REDMI A4 5G only on Jio SIM (Sparkle Purple, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.4,"7,078 Ratings ",10% off,"₹24,999","realme 14 Pro 5G (Pearl White, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+3.7,9 Ratings ,40% off,"₹2,999","I Kall K333 Pro - Touch & Type Mobile with 2.8” Display, 3000mAh Battery, Wi-Fi (Midnight Black, 16 GB)  (2 GB RAM)",16 GB,Mediatek
+4.6,"2,506 Ratings ",5% off,"₹94,900","Apple iPhone 16 Plus (Black, 256 GB)",256 GB,Apple
+4.4,"7,078 Ratings ",10% off,"₹24,999","realme 14 Pro 5G (Suede Grey, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"7,078 Ratings ",10% off,"₹24,999","realme 14 Pro 5G (Jaipur Pink, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.6,"4,228 Ratings ",30% off,"₹55,999","Samsung Galaxy S24 5G (Cobalt Violet, 256 GB)  (8 GB RAM)",256 GB,Exynos
+4.4,"77,680 Ratings ",20% off,"₹15,999","CMF by Nothing Phone 1 (Light Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.4,"77,680 Ratings ",20% off,"₹15,999","CMF by Nothing Phone 1 (Black, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.7,"1,967 Ratings ",5% off,"₹1,22,900","Apple iPhone 16 Pro (Desert Titanium, 256 GB)",256 GB,Apple
+4.6,"2,58,574 Ratings ",18% off,"₹64,900","Apple iPhone 15 (Green, 128 GB)",128 GB,Apple
+4.7,"1,967 Ratings ",5% off,"₹1,22,900","Apple iPhone 16 Pro (Black Titanium, 256 GB)",256 GB,Apple
+4.4,"3,757 Ratings ",52% off,"₹20,999","OPPO Reno 12 5G (Matte Brown, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"5,403 Ratings ",21% off,"₹9,449","REDMI A4 5G only on Jio SIM (Starry Black, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.2,"81,498 Ratings ",20% off,"₹15,999","Motorola g64 5G (Ice Lilac, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4,"14,015 Ratings ",40% off,₹898,Kechaoda A27  (Grey),32 MB,Processor clock: 400 MHz
+4.5,637 Ratings ,19% off,"₹21,028","IQOO Z10 5G (Black, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4,"2,454 Ratings ",32% off,₹948,Kechaoda A26_black  (Black),16 GB,NA
+4.1,"40,234 Ratings ",31% off,"₹1,020",Kechaoda K115  (Yellow),32 MB,NO
+4.4,"15,891 Ratings ",28% off,"₹19,999","realme P2 Pro 5G (Parrot Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,170 Ratings ,15% off,"₹25,288","IQOO Z10 5G (Black, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.2,"1,096 Ratings ",25% off,"₹11,999","Tecno Pova 6 Neo 5G (Midnight Shadow, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"40,234 Ratings ",33% off,₹998,Kechaoda K115  (Red),32 MB,NA
+4.1,"40,234 Ratings ",33% off,₹998,Kechaoda K115  (Orange),32 MB,NA
+4.4,"7,654 Ratings ",19% off,"₹18,499","realme P3 5G (Space Silver, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.4,170 Ratings ,15% off,"₹25,468","IQOO Z10 5G (Silver, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"14,697 Ratings ",30% off,"₹17,999","realme P2 Pro 5G (Eagle Grey, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"6,400 Ratings ",15% off,"₹10,999","realme C63 5G Charger in the Box (Starry Gold, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.4,"20,894 Ratings ",11% off,"₹21,353","OnePlus Nord CE4 lite 5G (SUPER SILVER, 256 GB)  (8 GB RAM)",256 GB,Qualcomm
+4.6,"4,228 Ratings ",30% off,"₹55,999","Samsung Galaxy S24 5G (Onyx Black, 256 GB)  (8 GB RAM)",256 GB,Exynos
+4.1,"40,234 Ratings ",31% off,"₹1,020",Kechaoda K115  (Silver),32 MB,NA
+4.1,"40,234 Ratings ",33% off,₹998,Kechaoda K115  (Blue),32 MB,NA
+4.3,705 Ratings ,33% off,"₹7,999","vivo Y19e (Majestic Green, 64 GB)  (4 GB RAM)",64 GB,Unisoc
+4.2,"2,241 Ratings ",22% off,"₹13,499","Samsung Galaxy F16 5G (Bling Black, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.6,"4,228 Ratings ",33% off,"₹49,999","Samsung Galaxy S24 5G (Onyx Black, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.4,214 Ratings ,20% off,"₹15,075","IQOO Z10X 5G (Titanium, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"25,680 Ratings ",18% off,"₹17,999","CMF by Nothing Phone 1 (Orange, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"25,680 Ratings ",18% off,"₹17,999","CMF by Nothing Phone 1 (Light Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"25,680 Ratings ",18% off,"₹17,999","CMF by Nothing Phone 1 (Black, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"25,680 Ratings ",18% off,"₹17,999","CMF by Nothing Phone 1 (Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,214 Ratings ,18% off,"₹16,800","IQOO Z10X 5G (Titanium, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"3,974 Ratings ",32% off,"₹20,999","realme P3 Pro 5G (Saturn Brown, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.5,"4,966 Ratings ",28% off,"₹36,999","realme GT 6 (Fluid Silver, 512 GB)  (16 GB RAM)",512 GB,Snapdragon
+4.6,"4,228 Ratings ",33% off,"₹49,999","Samsung Galaxy S24 5G (Marble Gray, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.3,"5,973 Ratings ",28% off,"₹37,999","Google Pixel 8a (Porcelain, 128 GB)  (8 GB RAM)",128 GB,Google
+4.3,"5,973 Ratings ",28% off,"₹37,999","Google Pixel 8a (Obsidian, 128 GB)  (8 GB RAM)",128 GB,Google
+4.3,"59,361 Ratings ",21% off,"₹8,999","POCO C75 5G (Aqua Bliss, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.1,"5,976 Ratings ",40% off,"₹5,999","REDMI A3X (Ocean Green, 64 GB)  (3 GB RAM)",64 GB,Unisoc
+4.4,"3,314 Ratings ",23% off,"₹25,999","realme P3 Ultra 5G (Orion Red, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.5,840 Ratings ,25% off,"₹26,999","realme P3 Ultra 5G (Orion Red, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.7,942 Ratings ,6% off,"₹1,35,900","Apple iPhone 16 Pro Max (Black Titanium, 256 GB)",256 GB,Apple
+4,"27,452 Ratings ",36% off,₹948,Kechaoda A26  (Black),32 MB,
+4.2,"11,035 Ratings ",30% off,"₹9,699","Samsung Galaxy F06 5G (Lit Violet, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Brilliant Blue, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.6,"17,364 Ratings ",6% off,"₹74,900","Apple iPhone 16 (Pink, 128 GB)",128 GB,Apple
+4.4,"77,680 Ratings ",20% off,"₹15,999","CMF by Nothing Phone 1 (Orange, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.2,"11,035 Ratings ",30% off,"₹9,699","Samsung Galaxy F06 5G (Bahama Blue, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.4,"3,314 Ratings ",21% off,"₹24,999","realme P3 Ultra 5G (Neptune Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.1,"2,286 Ratings ",25% off,"₹6,699","Infinix SMART 9 HD (Neo Titanium, 64 GB)  (3 GB RAM)",64 GB,Mediatek
+4.4,"3,314 Ratings ",23% off,"₹25,999","realme P3 Ultra 5G (Neptune Blue, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"6,374 Ratings ",25% off,"₹23,999","POCO X7 Pro 5G (Yellow, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4,215 Ratings ,17% off,"₹13,999","Tecno Pova 6 Neo 5G (Midnight Shadow, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4,215 Ratings ,17% off,"₹13,999","Tecno Pova 6 Neo 5G (Azure Sky, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"7,119 Ratings ",32% off,"₹16,999","POCO X7 5G (Glacier Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"35,231 Ratings ",33% off,"₹21,999","MOTOROLA Edge 50 (Jungle Green, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.5,"3,124 Ratings ",27% off,"₹31,999","realme GT 6 (Razor Green, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.6,"2,506 Ratings ",5% off,"₹84,900","Apple iPhone 16 Plus (Black, 128 GB)",128 GB,Apple
+4.4,"3,669 Ratings ",23% off,"₹25,999","POCO X7 Pro 5G (Obsidian Black, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.3,"4,857 Ratings ",20% off,"₹7,149","realme Narzo N61 (Vyage Blue, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.4,"3,974 Ratings ",31% off,"₹19,999","realme P3 Pro 5G (Galaxy Purple, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"2,842 Ratings ",25% off,"₹10,499","POCO M7 5G (Satin Black, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"1,096 Ratings ",25% off,"₹11,999","Tecno Pova 6 Neo 5G (Aurora Cloud, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.4,"3,669 Ratings ",23% off,"₹25,999","POCO X7 Pro 5G (Nebula Green, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4,"27,452 Ratings ",35% off,₹896,Kechaoda A26  (Gold),32 MB,NA
+3.9,441 Ratings ,36% off,₹949,Kechaoda A26_rose gold  (Rose_Gold),16 GB,NA
+4.6,"44,964 Ratings ",5% off,"₹84,900","Apple iPhone 15 Plus (Black, 256 GB)",256 GB,Apple
+4.4,"7,078 Ratings ",10% off,"₹26,999","realme 14 Pro 5G (Suede Grey, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.6,"3,12,259 Ratings ",8% off,"₹54,999","Apple iPhone 14 (Blue, 128 GB)",128 GB,Apple
+4.2,"36,322 Ratings ",32% off,"₹12,134","REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.6,"2,871 Ratings ",6% off,"₹74,999","Google Pixel 9 (Obsidian, 256 GB)  (12 GB RAM)",256 GB,Google
+4,"15,987 Ratings ",33% off,"₹1,251",KARBONN Jumbo K9  (Black and Red),8 GB,NA
+4.2,"4,684 Ratings ",35% off,"₹12,999","Infinix Note 40X 5G (Palm Blue, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"15,220 Ratings ",6% off,"₹27,999","Nothing Phone (2a) 5G (Black, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"98,650 Ratings ",7% off,"₹25,999","Nothing Phone (2a) 5G (White, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"15,220 Ratings ",6% off,"₹27,999","Nothing Phone (2a) 5G (Blue, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.3,"2,084 Ratings ",42% off,"₹15,025","Samsung Galaxy M35 5G (Thunder Grey, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Mint Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.6,"17,364 Ratings ",5% off,"₹84,900","Apple iPhone 16 (Ultramarine, 256 GB)",256 GB,Apple
+4.2,"81,498 Ratings ",20% off,"₹15,999","Motorola g64 5G (Ice Lilac, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.3,"1,851 Ratings ",23% off,"₹12,999","Infinix Note 50x 5G+ (Titanium Grey, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.6,"11,530 Ratings ",10% off,"₹24,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Zephyr, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"16,294 Ratings ",25% off,"₹8,199","realme C61 (Safari Green, 128 GB)  (6 GB RAM)",128 GB,Unisoc
+4.3,"7,052 Ratings ",23% off,"₹11,499","Infinix Note 50x 5G+ (Sea Breeze Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.5,"76,795 Ratings ",21% off,"₹24,999","vivo T3 Pro 5G (Emerald Green, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.1,"1,05,792 Ratings ",40% off,"₹5,399","POCO C61 - Locked with Airtel Prepaid (Mystical Green, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.2,"36,322 Ratings ",31% off,"₹12,322","REDMI 13 5G (Hawaiian Blue, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.5,"9,667 Ratings ",20% off,"₹19,999","OPPO K13 5G with 7000mAh and 80W SUPERVOOC Charger In-The-Box (Prism Black, 256 GB)  (8 GB RAM)",256 GB,Snapdragon
+4.3,"42,370 Ratings ",15% off,"₹10,999","Motorola g45 5G (Brilliant Green, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.4,"1,47,852 Ratings ",25% off,"₹20,999","Motorola Edge 50 Fusion (Forest Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"4,857 Ratings ",20% off,"₹7,149","realme Narzo N61 (Vyage Blue, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.4,414 Ratings ,21% off,"₹13,690","IQOO Z10X 5G (Ultramarine, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"7,119 Ratings ",32% off,"₹16,999","POCO X7 5G (Cosmic Silver, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.2,"2,080 Ratings ",37% off,"₹11,300","IQOO Z9x (Storm Grey, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.5,"20,500 Ratings ",21% off,"₹10,999","realme C63 5G Charger in the Box (Forest Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"1,66,171 Ratings ",20% off,"₹11,999","Motorola g45 5G (Brilliant Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"2,695 Ratings ",17% off,"₹33,999","MOTOROLA Edge 60 Pro (Pantone Dazzling Blue, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.5,"1,872 Ratings ",31% off,"₹31,999","realme GT 6 (Razor Green, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.3,"13,002 Ratings ",41% off,"₹19,999","Samsung Galaxy A35 5G (Awesome Lilac, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Berry Red, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"7,078 Ratings ",10% off,"₹24,999","realme 14 Pro 5G (Jaipur Pink, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.1,"15,706 Ratings ",25% off,"₹1,349",itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice  (Black),32 MB,Unisoc
+4.3,"11,754 Ratings ",31% off,"₹12,999","POCO M7 Pro 5G (Lunar Dust, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"15,706 Ratings ",25% off,"₹1,349",itel it5330 | 2.8 inch Big Display | 1900 mAh Battery | Kingvoice  (Light Green),32 MB,Unisoc
+4.1,"15,582 Ratings ",26% off,"₹9,499","POCO M7 5G (Satin Black, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.4,"7,125 Ratings ",17% off,"₹18,999","CMF by Nothing Phone 2 Pro (White, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"1,51,466 Ratings ",26% off,"₹13,999","vivo T3x 5G (Crimson Bliss, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.1,"1,506 Ratings ",33% off,₹993,hmd 105 Dual Sim  (Purple),4 MB,Snapdragon
+4.3,"8,678 Ratings ",30% off,"₹13,999","REDMI 13 5G (Hawaiian Blue, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,810 Ratings ,25% off,"₹7,499","REDMI A5 (Pondicherry Blue, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4.3,"4,857 Ratings ",15% off,"₹7,270","realme Narzo N61 (Marble Black, 64 GB)  (4 GB RAM)",64 GB,Mediatek
+4.4,"7,125 Ratings ",17% off,"₹18,999","CMF by Nothing Phone 2 Pro (Light Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"16,433 Ratings ",30% off,"₹10,499","Infinix Hot 50 5G (Sage Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"5,104 Ratings ",26% off,"₹9,499","Infinix Hot 50 5G (Sage Green, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.2,"1,096 Ratings ",25% off,"₹11,999","Tecno Pova 6 Neo 5G (Aurora Cloud, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.1,"2,286 Ratings ",25% off,"₹6,699","Infinix SMART 9 HD (Neo Titanium, 64 GB)  (3 GB RAM)",64 GB,Mediatek
+4.2,"2,539 Ratings ",26% off,"₹9,499","REDMI 14C 5G (Stardust Purple, 64 GB)  (4 GB RAM)",64 GB,Snapdragon
+4.2,"4,684 Ratings ",35% off,"₹12,999","Infinix Note 40X 5G (Lime Green, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.1,"1,506 Ratings ",33% off,₹996,hmd 105 Dual Sim  (Black),4 MB,Snapdragon
+4.3,"2,084 Ratings ",42% off,"₹15,022","Samsung Galaxy M35 5G (Moonlight Blue, 128 GB)  (8 GB RAM)",128 GB,Exynos
+4.2,"2,842 Ratings ",25% off,"₹10,499","POCO M7 5G (Mint Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.2,"9,770 Ratings ",33% off,"₹11,999","POCO M6 Plus 5G (Misty Lavender, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.6,"11,530 Ratings ",10% off,"₹24,999","MOTOROLA Edge 60 Fusion 5G (PANTONE Amazonite, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"4,595 Ratings ",16% off,"₹14,999","realme P3x 5G (Midnight Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"6,400 Ratings ",27% off,"₹18,742","IQOO Z9s 5G (Titanium Matte, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.3,"59,361 Ratings ",21% off,"₹8,999","POCO C75 5G (Aqua Bliss, 128 GB)  (4 GB RAM)",128 GB,Snapdragon
+4.5,"19,984 Ratings ",15% off,"₹21,999","vivo T4 5G (Phantom Grey, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.3,"5,104 Ratings ",26% off,"₹9,499","Infinix Hot 50 5G (Vibrant Blue, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.5,"1,676 Ratings ",8% off,"₹33,999","Nothing Phone (3a) Pro (Grey, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"73,784 Ratings ",21% off,"₹17,999","Motorola G85 5G (Cobalt Blue, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"14,697 Ratings ",30% off,"₹17,999","realme P2 Pro 5G (Parrot Green, 128 GB)  (8 GB RAM)",128 GB,Snapdragon
+4.4,"2,695 Ratings ",17% off,"₹33,999","MOTOROLA Edge 60 Pro (Pantone Sparkling Grape, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,214 Ratings ,20% off,"₹15,075","IQOO Z10X 5G (Titanium, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"99,236 Ratings ",25% off,"₹11,499","vivo T3 Lite 5G (Vibrant Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.2,810 Ratings ,25% off,"₹7,499","REDMI A5 (Just Black, 128 GB)  (4 GB RAM)",128 GB,Unisoc
+4,"1,136 Ratings ",36% off,₹949,Kechaoda A26_Pink  (Pink),16 GB,NA
+4.2,"2,241 Ratings ",22% off,"₹13,499","Samsung Galaxy F16 5G (Bling Black, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4,"2,454 Ratings ",32% off,₹948,Kechaoda A26_black  (Black),16 GB,NA
+4.2,"2,241 Ratings ",22% off,"₹13,499","Samsung Galaxy F16 5G (Glam Green, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"5,104 Ratings ",26% off,"₹9,499","Infinix Hot 50 5G (Dreamy Purple, 128 GB)  (4 GB RAM)",128 GB,Mediatek
+4.1,"40,234 Ratings ",31% off,"₹1,020",Kechaoda K115  (Pink),32 MB,NA
+4.3,"7,119 Ratings ",32% off,"₹16,999","POCO X7 5G (Yellow, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"20,894 Ratings ",18% off,"₹17,099","OnePlus Nord CE4 lite 5G (SUPER SILVER, 128 GB)  (8 GB RAM)",128 GB,Qualcomm
+4.5,493 Ratings ,17% off,"₹42,867","OnePlus 13R 5G (Astral Trail, 512 GB)  (16 GB RAM)",512 GB,Snapdragon
+4.4,"7,125 Ratings ",16% off,"₹20,999","CMF by Nothing Phone 2 Pro (White, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.3,"13,002 Ratings ",40% off,"₹21,999","Samsung Galaxy A35 5G (Awesome Navy, 256 GB)  (8 GB RAM)",256 GB,Exynos
+4.6,"2,58,574 Ratings ",6% off,"₹74,900","Apple iPhone 15 (Blue, 256 GB)",256 GB,Apple
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Berry Red, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"8,608 Ratings ",20% off,"₹31,999","vivo T3 Ultra (Frost Green, 256 GB)  (12 GB RAM)",256 GB,Mediatek
+4.4,"10,584 Ratings ",20% off,"₹15,999","realme P3 5G (Nebula Pink, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.3,"1,851 Ratings ",23% off,"₹12,999","Infinix Note 50x 5G+ (Sea Breeze Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.5,"18,873 Ratings ",22% off,"₹27,999","vivo T3 Ultra (Frost Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.2,"1,566 Ratings ",2% off,"₹9,295","realme Narzo N61 (Marble Black, 128 GB)  (6 GB RAM)",128 GB,Mediatek
+4.3,"56,704 Ratings ",22% off,"₹13,999","Motorola g64 5G (Pearl Blue, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"8,829 Ratings ",35% off,"₹12,190","IQOO z9x (Storm Grey, 128 GB)  (6 GB RAM)",128 GB,Snapdragon
+4.4,"6,400 Ratings ",27% off,"₹18,740","IQOO Z9s 5G (Titanium Matte, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"6,400 Ratings ",29% off,"₹18,315","IQOO Z9s 5G (Onyx Green, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"63,419 Ratings ",28% off,"₹29,999","Motorola Edge 50 Pro 5G with 125W Charger (Luxe Lavender, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.4,"1,26,411 Ratings ",24% off,"₹18,999","vivo T3 5G (Cosmic Blue, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.6,"1,014 Ratings ",8% off,"₹54,900","Apple iPhone 16e (White, 128 GB)",128 GB,Apple
+4.4,"20,894 Ratings ",18% off,"₹17,130","OnePlus Nord CE4 lite 5G (MEGA BLUE, 128 GB)  (8 GB RAM)",128 GB,Qualcomm
+4.2,"2,635 Ratings ",24% off,"₹16,154","Samsung Galaxy A16 5G (Blue Black, 128 GB)  (8 GB RAM)",128 GB,Mediatek
+4.4,"8,969 Ratings ",28% off,"₹17,999","Infinix Note 50s 5G+ (Titanium Grey, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.4,"26,715 Ratings ",33% off,"₹19,999","Motorola Edge 50 Neo (PANTONE Poinciana, 256 GB)  (8 GB RAM)",256 GB,Mediatek
+4.6,"1,807 Ratings ",,"₹80,999","Samsung Galaxy S25 5G (Silver Shadow, 256 GB)  (12 GB RAM)",256 GB,Snapdragon
+4.5,973 Ratings ,,"₹49,999","Google Pixel 9A (Obsidian, 256 GB)  (8 GB RAM)",256 GB,Google

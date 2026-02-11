@@ -1,0 +1,378 @@
+star,rating,discount,price,brand,storage,processor
+4.2,50094,20% off,9999,MOTOROLA g35 5G,128 GB,Unisoc
+4.5,58286,22% off,13999,vivo T4x 5G,128 GB,Mediatek
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.2,51771,37% off,6249,Samsung Galaxy F05,64 GB,Mediatek
+4.5,58286,22% off,13999,vivo T4x 5G,128 GB,Mediatek
+4.4,73784,21% off,17999,Motorola G85 5G,256 GB,Snapdragon
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.3,30632,27% off,7299,MOTOROLA g05,64 GB,Mediatek
+4.5,40845,19% off,16999,vivo T4x 5G,256 GB,Mediatek
+4.3,59361,30% off,7699,POCO C75 5G,64 GB,Snapdragon
+4.6,22515,11% off,22999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.2,50094,20% off,9999,MOTOROLA g35 5G,128 GB,Unisoc
+4.3,31383,36% off,13999,Infinix Note 40X 5G,256 GB,Mediatek
+4.2,2842,25% off,10499,POCO M7 5G,128 GB,Snapdragon
+4.5,118767,26% off,18999,Motorola Edge 50 Fusion,128 GB,Snapdragon
+4.4,192201,23% off,15999,Motorola G85 5G,128 GB,Snapdragon
+4.3,954,27% off,6499,REDMI A5,64 GB,Unisoc
+4.1,5976,40% off,5999,REDMI A3X,64 GB,Unisoc
+4.3,59361,30% off,7699,POCO C75 5G,64 GB,Snapdragon
+4.5,173829,23% off,12999,OPPO K12x 5G,128 GB,Mediatek
+4.2,50094,20% off,9999,MOTOROLA g35 5G,128 GB,Unisoc
+4.5,58286,22% off,13999,vivo T4x 5G,128 GB,Mediatek
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.2,51771,37% off,6249,Samsung Galaxy F05,64 GB,Mediatek
+4.5,58286,22% off,13999,vivo T4x 5G,128 GB,Mediatek
+4.4,73784,21% off,17999,Motorola G85 5G,256 GB,Snapdragon
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.3,30632,27% off,7299,MOTOROLA g05,64 GB,Mediatek
+4.5,40845,19% off,16999,vivo T4x 5G,256 GB,Mediatek
+4.3,59361,30% off,7699,POCO C75 5G,64 GB,Snapdragon
+4.6,22515,11% off,22999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.2,50094,20% off,9999,MOTOROLA g35 5G,128 GB,Unisoc
+4.3,31383,36% off,13999,Infinix Note 40X 5G,256 GB,Mediatek
+4.2,2842,25% off,10499,POCO M7 5G,128 GB,Snapdragon
+4.5,118767,26% off,18999,Motorola Edge 50 Fusion,128 GB,Snapdragon
+4.4,192201,23% off,15999,Motorola G85 5G,128 GB,Snapdragon
+4.3,954,27% off,6499,REDMI A5,64 GB,Unisoc
+4.1,5976,40% off,5999,REDMI A3X,64 GB,Unisoc
+4.3,59361,30% off,7699,POCO C75 5G,64 GB,Snapdragon
+4.5,173829,23% off,12999,OPPO K12x 5G,128 GB,Mediatek
+4.5,40845,19% off,16999,vivo T4x 5G,256 GB,Mediatek
+4.1,15582,26% off,9499,POCO M7 5G,128 GB,Snapdragon
+4.5,19984,14% off,23999,vivo T4 5G,256 GB,Snapdragon
+4.5,40845,23% off,14999,vivo T4x 5G,128 GB,Mediatek
+4.5,19984,15% off,21999,vivo T4 5G,128 GB,Snapdragon
+4.3,30632,27% off,7299,MOTOROLA g05,64 GB,Mediatek
+4.1,5976,40% off,5999,REDMI A3X,64 GB,Unisoc
+4.5,9667,20% off,19999,OPPO K13 5G,256 GB,Snapdragon
+4.4,16294,25% off,8199,realme C61,128 GB,Unisoc
+4.3,954,27% off,6499,REDMI A5,64 GB,Unisoc
+4.4,192201,23% off,15999,Motorola G85 5G,128 GB,Snapdragon
+4.2,50094,20% off,9999,MOTOROLA g35 5G,128 GB,Unisoc
+4.5,19984,14% off,23999,vivo T4 5G,256 GB,Snapdragon
+4.3,8678,30% off,13999,REDMI 13 5G,128 GB,Snapdragon
+4.2,36322,30% off,12499,REDMI 13 5G,128 GB,Snapdragon
+4.6,22515,11% off,22999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.4,414,21% off,13690,IQOO Z10X 5G,128 GB,Mediatek
+4.5,9667,21% off,17999,OPPO K13 5G,128 GB,Snapdragon
+4.3,31383,36% off,13999,Infinix Note 40X 5G,256 GB,Mediatek
+4.3,59361,30% off,7699,POCO C75 5G,64 GB,Snapdragon
+4.4,19930,42% off,14084,Samsung Galaxy M35 5G,128 GB,Exynos
+4.5,118767,26% off,18999,Motorola Edge 50 Fusion,128 GB,Snapdragon
+4.4,15891,28% off,19999,realme P2 Pro 5G,256 GB,Snapdragon
+4.3,7052,23% off,11499,Infinix Note 50x 5G,128 GB,Mediatek
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.5,3624,13% off,25999,vivo T4 5G,256 GB,Snapdragon
+4.4,192201,23% off,15999,Motorola G85 5G,128 GB,Snapdragon
+4.4,8969,27% off,15999,Infinix Note 50s 5G,128 GB,Mediatek
+4.4,7654,19% off,18499,realme P3 5G,256 GB,Snapdragon
+4.3,954,27% off,6499,REDMI A5,64 GB,Unisoc
+4.3,705,33% off,7999,vivo Y19e,64 GB,Unisoc
+4.4,8969,27% off,15999,Infinix Note 50s 5G,128 GB,Mediatek
+4.5,173829,23% off,12999,OPPO K12x 5G,128 GB,Mediatek
+4.5,15344,17% off,13999,realme P3x 5G,128 GB,Mediatek
+4.5,173829,23% off,12999,OPPO K12x 5G,128 GB,Mediatek
+4.4,192201,23% off,15999,Motorola G85 5G,128 GB,Snapdragon
+4.5,118767,26% off,18999,Motorola Edge 50 Fusion,128 GB,Snapdragon
+4.5,3624,13% off,25999,vivo T4 5G,256 GB,Snapdragon
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.3,13002,41% off,19999,Samsung Galaxy A35 5G,128 GB,Exynos
+4.2,11035,30% off,9699,Samsung Galaxy F06 5G,128 GB,Mediatek
+4.4,10584,20% off,15999,realme P3 5G,128 GB,Snapdragon
+4.2,1441,25% off,11999,Samsung Galaxy F16 5G,128 GB,Mediatek
+4.5,76795,23% off,22999,vivo T3 Pro 5G,128 GB,Snapdragon
+4.4,8969,27% off,15999,Infinix Note 50s 5G,128 GB,Mediatek
+4.4,19930,43% off,13914,Samsung Galaxy M35 5G,128 GB,Exynos
+4.4,3757,52% off,20999,OPPO Reno 12 5G,256 GB,Mediatek
+4.2,81498,20% off,15999,Motorola g64 5G,256 GB,Mediatek
+4.3,2209,32% off,6767,Samsung M05,64 GB,Mediatek
+4.5,9667,21% off,17999,OPPO K13 5G,128 GB,Snapdragon
+4.4,8969,28% off,17999,Infinix Note 50s 5G,256 GB,Mediatek
+4.3,8678,30% off,13999,REDMI 13 5G,128 GB,Snapdragon
+4.1,4886,27% off,11199,Samsung Galaxy F06 5G,128 GB,Mediatek
+4.3,11754,31% off,12999,POCO M7 Pro 5G,128 GB,Mediatek
+4.1,15582,26% off,9499,POCO M7 5G,128 GB,Snapdragon
+4.4,19930,44% off,13692,Samsung Galaxy M35 5G,128 GB,Exynos
+4.2,81498,20% off,15999,Motorola g64 5G,256 GB,Mediatek
+4.3,1851,23% off,12999,Infinix Note 50x 5G,128 GB,Mediatek
+4.6,11530,10% off,24999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.4,16294,25% off,8199,realme C61,128 GB,Unisoc
+4.3,7052,23% off,11499,Infinix Note 50x 5G,128 GB,Mediatek
+4.5,76795,21% off,24999,vivo T3 Pro 5G,256 GB,Snapdragon
+4.1,105792,40% off,5399,POCO C61 -,64 GB,Mediatek
+4.2,36322,31% off,12325,REDMI 13 5G,128 GB,Snapdragon
+4.5,9667,20% off,19999,OPPO K13 5G,256 GB,Snapdragon
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.4,147852,25% off,20999,Motorola Edge 50 Fusion,256 GB,Snapdragon
+4.3,4857,20% off,7149,realme Narzo N61,64 GB,Mediatek
+4.4,414,21% off,13690,IQOO Z10X 5G,128 GB,Mediatek
+4.3,7119,32% off,16999,POCO X7 5G,128 GB,Mediatek
+4.2,2080,37% off,11300,IQOO Z9x,128 GB,Snapdragon
+4.5,20500,21% off,10999,realme C63 5G,128 GB,Mediatek
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.4,2695,17% off,33999,MOTOROLA Edge 60 Pro,256 GB,Mediatek
+4.5,1872,31% off,31999,realme GT 6,256 GB,Snapdragon
+4.3,13002,41% off,19999,Samsung Galaxy A35 5G,128 GB,Exynos
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.4,7078,10% off,24999,realme 14 Pro 5G,128 GB,Mediatek
+4.3,11754,31% off,12999,POCO M7 Pro 5G,128 GB,Mediatek
+4.1,15582,26% off,9499,POCO M7 5G,128 GB,Snapdragon
+4.4,7125,17% off,18999,CMF by Nothing Phone 2 Pro,128 GB,Mediatek
+4.5,151466,26% off,13999,vivo T3x 5G,128 GB,Snapdragon
+4.3,8678,30% off,13999,REDMI 13 5G,128 GB,Snapdragon
+4.2,810,25% off,7499,REDMI A5,128 GB,Unisoc
+4.3,4857,15% off,7270,realme Narzo N61,64 GB,Mediatek
+4.4,7125,17% off,18999,CMF by Nothing Phone 2 Pro,128 GB,Mediatek
+4.4,16433,30% off,10499,Infinix Hot 50 5G,128 GB,Mediatek
+4.3,5104,26% off,9499,Infinix Hot 50 5G,128 GB,Mediatek
+4.2,1096,25% off,11999,Tecno Pova 6 Neo 5G,128 GB,Mediatek
+4.1,2286,25% off,6699,Infinix SMART 9 HD,64 GB,Mediatek
+4.2,2442,26% off,9499,REDMI 14C 5G,64 GB,Snapdragon
+4.2,4684,35% off,12999,Infinix Note 40X 5G,256 GB,Mediatek
+4.3,2084,42% off,15031,Samsung Galaxy M35 5G,128 GB,Exynos
+4.2,2842,25% off,10499,POCO M7 5G,128 GB,Snapdragon
+4.2,9770,33% off,11999,POCO M6 Plus 5G,128 GB,Snapdragon
+4.6,11530,10% off,24999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.4,4595,16% off,14999,realme P3x 5G,128 GB,Mediatek
+4.4,6400,27% off,18758,IQOO Z9s 5G,128 GB,Mediatek
+4.3,59361,21% off,8999,POCO C75 5G,128 GB,Snapdragon
+4.5,19984,15% off,21999,vivo T4 5G,128 GB,Snapdragon
+4.3,5104,26% off,9499,Infinix Hot 50 5G,128 GB,Mediatek
+4.5,1676,8% off,33999,Nothing PhonePro,256 GB,Snapdragon
+4.4,73784,21% off,17999,Motorola G85 5G,256 GB,Snapdragon
+4.4,14697,30% off,17999,realme P2 Pro 5G,128 GB,Snapdragon
+4.4,2695,17% off,33999,MOTOROLA Edge 60 Pro,256 GB,Mediatek
+4.4,214,20% off,15075,IQOO Z10X 5G,128 GB,Mediatek
+4.4,99236,25% off,11499,vivo T3 Lite 5G,128 GB,Mediatek
+4.2,810,25% off,7499,REDMI A5,128 GB,Unisoc
+4.2,2241,22% off,13499,Samsung Galaxy F16 5G,128 GB,Mediatek
+4.2,2241,22% off,13499,Samsung Galaxy F16 5G,128 GB,Mediatek
+4.3,5104,26% off,9499,Infinix Hot 50 5G,128 GB,Mediatek
+4.3,7119,32% off,16999,POCO X7 5G,128 GB,Mediatek
+4.4,20894,18% off,17099,OnePlus Nord CE4 lite 5G,128 GB,Qualcomm
+4.5,493,17% off,42869,OnePlus 13R 5G,512 GB,Snapdragon
+4.4,7125,16% off,20999,CMF by Nothing Phone 2 Pro,256 GB,Mediatek
+4.3,13002,40% off,21999,Samsung Galaxy A35 5G,256 GB,Exynos
+4.6,258574,6% off,74900,Apple iPhone 15,256 GB,Apple
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.5,8608,20% off,31999,vivo T3 Ultra,256 GB,Mediatek
+4.4,10584,20% off,15999,realme P3 5G,128 GB,Snapdragon
+4.3,1851,23% off,12999,Infinix Note 50x 5G,128 GB,Mediatek
+4.5,18873,22% off,27999,vivo T3 Ultra,128 GB,Mediatek
+4.2,1566,2% off,9295,realme Narzo N61,128 GB,Mediatek
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.4,8829,35% off,12190,IQOO z9x,128 GB,Snapdragon
+4.4,6400,27% off,18752,IQOO Z9s 5G,128 GB,Mediatek
+4.4,6400,29% off,18330,IQOO Z9s 5G,128 GB,Mediatek
+4.4,63419,28% off,29999,Motorola Edge 50 Pro 5G,256 GB,Snapdragon
+4.4,126411,24% off,18999,vivo T3 5G,256 GB,Mediatek
+4.6,1014,8% off,54900,Apple iPhone 16e,128 GB,Apple
+4.4,20894,18% off,17140,OnePlus Nord CE4 lite 5G,128 GB,Qualcomm
+4.2,2635,24% off,16154,Samsung Galaxy A16 5G,128 GB,Mediatek
+4.4,8969,28% off,17999,Infinix Note 50s 5G,256 GB,Mediatek
+4.4,26715,33% off,19999,Motorola Edge 50 Neo,256 GB,Mediatek
+4.6,2832,36% off,85481,Samsung Galaxy S24 Ultra 5G,256 GB,Snapdragon
+4.4,7654,19% off,16999,realme P3 5G,128 GB,Snapdragon
+4.4,126411,24% off,18999,vivo T3 5G,256 GB,Mediatek
+4.0,30641,25% off,1499,Kechaoda K112,64 MB,MediaTek MT6261D Number of cores: 1 GPU: -
+4.3,31383,36% off,13999,Infinix Note 40X 5G,256 GB,Mediatek
+4.6,258574,7% off,64900,Apple iPhone 15,128 GB,Apple
+4.2,2080,36% off,11349,IQOO Z9x,128 GB,Snapdragon
+4.5,20500,21% off,10999,realme C63 5G,128 GB,Mediatek
+4.4,126411,23% off,17499,vivo T3 5G,128 GB,Mediatek
+4.6,4228,30% off,55999,Samsung Galaxy S24 5G,256 GB,Exynos
+4.4,73784,21% off,17999,Motorola G85 5G,256 GB,Snapdragon
+4.4,7078,10% off,26999,realme 14 Pro 5G,256 GB,Mediatek
+4.4,13160,6% off,27999,Nothing PhonePlus,256 GB,Mediatek
+4.4,8829,35% off,12190,IQOO z9x,128 GB,Snapdragon
+4.3,7119,32% off,16999,POCO X7 5G,128 GB,Mediatek
+4.6,4228,33% off,49999,Samsung Galaxy S24 5G,128 GB,Exynos
+4.5,18873,21% off,29999,vivo T3 Ultra,256 GB,Mediatek
+4.6,2506,5% off,84900,Apple iPhone 16 Plus,128 GB,Apple
+4.0,30641,25% off,1499,Kechaoda K112,64 MB,No
+4.3,13002,41% off,19999,Samsung Galaxy A35 5G,128 GB,Exynos
+4.4,7125,16% off,20999,CMF by Nothing Phone 2 Pro,256 GB,Mediatek
+4.3,4857,15% off,7270,realme Narzo N61,64 GB,Mediatek
+4.4,77680,20% off,15999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.3,2084,42% off,15031,Samsung Galaxy M35 5G,128 GB,Exynos
+4.6,312259,8% off,54999,Apple iPhone 14,128 GB,Apple
+4.4,19930,42% off,14084,Samsung Galaxy M35 5G,128 GB,Exynos
+4.2,1781,28% off,14272,Samsung Galaxy A16 5G,128 GB,Mediatek
+4.4,414,21% off,13690,IQOO Z10X 5G,128 GB,Mediatek
+4.5,20500,21% off,10999,realme C63 5G,128 GB,Mediatek
+4.5,3605,13% off,12999,realme C63 5G,128 GB,Mediatek
+4.4,126411,23% off,17499,vivo T3 5G,128 GB,Mediatek
+4.4,14697,30% off,17999,realme P2 Pro 5G,128 GB,Snapdragon
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.5,3605,13% off,12999,realme C63 5G,128 GB,Mediatek
+4.3,31383,36% off,13999,Infinix Note 40X 5G,256 GB,Mediatek
+4.6,1014,8% off,54900,Apple iPhone 16e,128 GB,Apple
+4.3,1851,23% off,12999,Infinix Note 50x 5G,128 GB,Mediatek
+4.3,1851,23% off,12999,Infinix Note 50x 5G,128 GB,Mediatek
+4.5,637,17% off,23117,IQOO Z10 5G,256 GB,Snapdragon
+4.2,50094,20% off,9999,MOTOROLA g35 5G,128 GB,Unisoc
+4.3,705,33% off,7999,vivo Y19e,64 GB,Unisoc
+4.4,6400,15% off,10999,realme C63 5G,128 GB,Mediatek
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.3,7052,23% off,11499,Infinix Note 50x 5G,128 GB,Mediatek
+4.3,7052,23% off,11499,Infinix Note 50x 5G,128 GB,Mediatek
+4.3,7052,23% off,11499,Infinix Note 50x 5G,128 GB,Mediatek
+4.3,5403,21% off,8649,REDMI A4 5G,64 GB,Snapdragon
+4.4,7078,10% off,24999,realme 14 Pro 5G,128 GB,Mediatek
+3.7,9,40% off,2999,I Kall K333 Pro -,16 GB,Mediatek
+4.6,2506,5% off,94900,Apple iPhone 16 Plus,256 GB,Apple
+4.4,7078,10% off,24999,realme 14 Pro 5G,128 GB,Mediatek
+4.4,7078,10% off,24999,realme 14 Pro 5G,128 GB,Mediatek
+4.6,4228,30% off,55999,Samsung Galaxy S24 5G,256 GB,Exynos
+4.4,77680,20% off,15999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.4,77680,20% off,15999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.7,1967,5% off,122900,Apple iPhone 16 Pro,256 GB,Apple
+4.6,258574,18% off,64900,Apple iPhone 15,128 GB,Apple
+4.7,1967,5% off,122900,Apple iPhone 16 Pro,256 GB,Apple
+4.4,3757,52% off,20999,OPPO Reno 12 5G,256 GB,Mediatek
+4.3,5403,21% off,9449,REDMI A4 5G,128 GB,Snapdragon
+4.2,81498,20% off,15999,Motorola g64 5G,256 GB,Mediatek
+4.5,637,19% off,21028,IQOO Z10 5G,128 GB,Snapdragon
+4.4,15891,28% off,19999,realme P2 Pro 5G,256 GB,Snapdragon
+4.4,170,15% off,25288,IQOO Z10 5G,256 GB,Snapdragon
+4.2,1096,25% off,11999,Tecno Pova 6 Neo 5G,128 GB,Mediatek
+4.4,7654,19% off,18499,realme P3 5G,256 GB,Snapdragon
+4.4,170,15% off,25468,IQOO Z10 5G,256 GB,Snapdragon
+4.4,14697,30% off,17999,realme P2 Pro 5G,128 GB,Snapdragon
+4.4,6400,15% off,10999,realme C63 5G,128 GB,Mediatek
+4.4,20894,11% off,21353,OnePlus Nord CE4 lite 5G,256 GB,Qualcomm
+4.6,4228,30% off,55999,Samsung Galaxy S24 5G,256 GB,Exynos
+4.3,705,33% off,7999,vivo Y19e,64 GB,Unisoc
+4.2,2241,22% off,13499,Samsung Galaxy F16 5G,128 GB,Mediatek
+4.6,4228,33% off,49999,Samsung Galaxy S24 5G,128 GB,Exynos
+4.4,214,20% off,15075,IQOO Z10X 5G,128 GB,Mediatek
+4.4,25680,18% off,17999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.4,25680,18% off,17999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.4,25680,18% off,17999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.4,25680,18% off,17999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.4,214,18% off,16800,IQOO Z10X 5G,256 GB,Mediatek
+4.4,3974,32% off,20999,realme P3 Pro 5G,256 GB,Snapdragon
+4.5,4966,28% off,36999,realme GT 6,512 GB,Snapdragon
+4.6,4228,33% off,49999,Samsung Galaxy S24 5G,128 GB,Exynos
+4.3,5973,28% off,37999,Google Pixel 8a,128 GB,Google
+4.3,5973,28% off,37999,Google Pixel 8a,128 GB,Google
+4.3,59361,21% off,8999,POCO C75 5G,128 GB,Snapdragon
+4.1,5976,40% off,5999,REDMI A3X,64 GB,Unisoc
+4.4,3314,23% off,25999,realme P3 Ultra 5G,256 GB,Mediatek
+4.5,840,25% off,26999,realme P3 Ultra 5G,256 GB,Mediatek
+4.7,942,6% off,135900,Apple iPhone 16 Pro Max,256 GB,Apple
+4.2,11035,30% off,9699,Samsung Galaxy F06 5G,128 GB,Mediatek
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.6,17364,6% off,74900,Apple iPhone 16,128 GB,Apple
+4.4,77680,20% off,15999,CMF by Nothing Phone 1,128 GB,Mediatek
+4.2,11035,30% off,9699,Samsung Galaxy F06 5G,128 GB,Mediatek
+4.4,3314,21% off,24999,realme P3 Ultra 5G,128 GB,Mediatek
+4.1,2286,25% off,6699,Infinix SMART 9 HD,64 GB,Mediatek
+4.4,3314,23% off,25999,realme P3 Ultra 5G,256 GB,Mediatek
+4.3,6374,25% off,23999,POCO X7 Pro 5G,256 GB,Mediatek
+4.0,215,17% off,13999,Tecno Pova 6 Neo 5G,256 GB,Mediatek
+4.0,215,17% off,13999,Tecno Pova 6 Neo 5G,256 GB,Mediatek
+4.3,7119,32% off,16999,POCO X7 5G,128 GB,Mediatek
+4.3,35231,33% off,21999,MOTOROLA Edge 50,256 GB,Snapdragon
+4.5,3124,27% off,31999,realme GT 6,256 GB,Snapdragon
+4.6,2506,5% off,84900,Apple iPhone 16 Plus,128 GB,Apple
+4.4,3669,23% off,25999,POCO X7 Pro 5G,256 GB,Mediatek
+4.3,4857,20% off,7149,realme Narzo N61,64 GB,Mediatek
+4.4,3974,31% off,19999,realme P3 Pro 5G,128 GB,Snapdragon
+4.2,2842,25% off,10499,POCO M7 5G,128 GB,Snapdragon
+4.2,1096,25% off,11999,Tecno Pova 6 Neo 5G,128 GB,Mediatek
+4.4,3669,23% off,25999,POCO X7 Pro 5G,256 GB,Mediatek
+4.6,44964,5% off,84900,Apple iPhone 15 Plus,256 GB,Apple
+4.4,7078,10% off,26999,realme 14 Pro 5G,256 GB,Mediatek
+4.6,312259,8% off,54999,Apple iPhone 14,128 GB,Apple
+4.2,36322,32% off,12134,REDMI 13 5G,128 GB,Snapdragon
+4.6,2871,6% off,74999,Google Pixel 9,256 GB,Google
+4.2,4684,35% off,12999,Infinix Note 40X 5G,256 GB,Mediatek
+4.4,15220,6% off,27999,Nothing Phone5G,256 GB,Mediatek
+4.4,98650,7% off,25999,Nothing Phone5G,256 GB,Mediatek
+4.4,15220,6% off,27999,Nothing Phone5G,256 GB,Mediatek
+4.3,2084,42% off,15025,Samsung Galaxy M35 5G,128 GB,Exynos
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.6,17364,5% off,84900,Apple iPhone 16,256 GB,Apple
+4.2,81498,20% off,15999,Motorola g64 5G,256 GB,Mediatek
+4.3,1851,23% off,12999,Infinix Note 50x 5G,128 GB,Mediatek
+4.6,11530,10% off,24999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.4,16294,25% off,8199,realme C61,128 GB,Unisoc
+4.3,7052,23% off,11499,Infinix Note 50x 5G,128 GB,Mediatek
+4.5,76795,21% off,24999,vivo T3 Pro 5G,256 GB,Snapdragon
+4.1,105792,40% off,5399,POCO C61 -,64 GB,Mediatek
+4.2,36322,31% off,12322,REDMI 13 5G,128 GB,Snapdragon
+4.5,9667,20% off,19999,OPPO K13 5G,256 GB,Snapdragon
+4.3,42370,15% off,10999,Motorola g45 5G,128 GB,Snapdragon
+4.4,147852,25% off,20999,Motorola Edge 50 Fusion,256 GB,Snapdragon
+4.3,4857,20% off,7149,realme Narzo N61,64 GB,Mediatek
+4.4,414,21% off,13690,IQOO Z10X 5G,128 GB,Mediatek
+4.3,7119,32% off,16999,POCO X7 5G,128 GB,Mediatek
+4.2,2080,37% off,11300,IQOO Z9x,128 GB,Snapdragon
+4.5,20500,21% off,10999,realme C63 5G,128 GB,Mediatek
+4.3,166171,20% off,11999,Motorola g45 5G,128 GB,Snapdragon
+4.4,2695,17% off,33999,MOTOROLA Edge 60 Pro,256 GB,Mediatek
+4.5,1872,31% off,31999,realme GT 6,256 GB,Snapdragon
+4.3,13002,41% off,19999,Samsung Galaxy A35 5G,128 GB,Exynos
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.4,7078,10% off,24999,realme 14 Pro 5G,128 GB,Mediatek
+4.3,11754,31% off,12999,POCO M7 Pro 5G,128 GB,Mediatek
+4.1,15582,26% off,9499,POCO M7 5G,128 GB,Snapdragon
+4.4,7125,17% off,18999,CMF by Nothing Phone 2 Pro,128 GB,Mediatek
+4.5,151466,26% off,13999,vivo T3x 5G,128 GB,Snapdragon
+4.3,8678,30% off,13999,REDMI 13 5G,128 GB,Snapdragon
+4.2,810,25% off,7499,REDMI A5,128 GB,Unisoc
+4.3,4857,15% off,7270,realme Narzo N61,64 GB,Mediatek
+4.4,7125,17% off,18999,CMF by Nothing Phone 2 Pro,128 GB,Mediatek
+4.4,16433,30% off,10499,Infinix Hot 50 5G,128 GB,Mediatek
+4.3,5104,26% off,9499,Infinix Hot 50 5G,128 GB,Mediatek
+4.2,1096,25% off,11999,Tecno Pova 6 Neo 5G,128 GB,Mediatek
+4.1,2286,25% off,6699,Infinix SMART 9 HD,64 GB,Mediatek
+4.2,2539,26% off,9499,REDMI 14C 5G,64 GB,Snapdragon
+4.2,4684,35% off,12999,Infinix Note 40X 5G,256 GB,Mediatek
+4.3,2084,42% off,15022,Samsung Galaxy M35 5G,128 GB,Exynos
+4.2,2842,25% off,10499,POCO M7 5G,128 GB,Snapdragon
+4.2,9770,33% off,11999,POCO M6 Plus 5G,128 GB,Snapdragon
+4.6,11530,10% off,24999,MOTOROLA Edge 60 Fusion 5G,256 GB,Mediatek
+4.4,4595,16% off,14999,realme P3x 5G,128 GB,Mediatek
+4.4,6400,27% off,18742,IQOO Z9s 5G,128 GB,Mediatek
+4.3,59361,21% off,8999,POCO C75 5G,128 GB,Snapdragon
+4.5,19984,15% off,21999,vivo T4 5G,128 GB,Snapdragon
+4.3,5104,26% off,9499,Infinix Hot 50 5G,128 GB,Mediatek
+4.5,1676,8% off,33999,Nothing PhonePro,256 GB,Snapdragon
+4.4,73784,21% off,17999,Motorola G85 5G,256 GB,Snapdragon
+4.4,14697,30% off,17999,realme P2 Pro 5G,128 GB,Snapdragon
+4.4,2695,17% off,33999,MOTOROLA Edge 60 Pro,256 GB,Mediatek
+4.4,214,20% off,15075,IQOO Z10X 5G,128 GB,Mediatek
+4.4,99236,25% off,11499,vivo T3 Lite 5G,128 GB,Mediatek
+4.2,810,25% off,7499,REDMI A5,128 GB,Unisoc
+4.2,2241,22% off,13499,Samsung Galaxy F16 5G,128 GB,Mediatek
+4.2,2241,22% off,13499,Samsung Galaxy F16 5G,128 GB,Mediatek
+4.3,5104,26% off,9499,Infinix Hot 50 5G,128 GB,Mediatek
+4.3,7119,32% off,16999,POCO X7 5G,128 GB,Mediatek
+4.4,20894,18% off,17099,OnePlus Nord CE4 lite 5G,128 GB,Qualcomm
+4.5,493,17% off,42867,OnePlus 13R 5G,512 GB,Snapdragon
+4.4,7125,16% off,20999,CMF by Nothing Phone 2 Pro,256 GB,Mediatek
+4.3,13002,40% off,21999,Samsung Galaxy A35 5G,256 GB,Exynos
+4.6,258574,6% off,74900,Apple iPhone 15,256 GB,Apple
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.5,8608,20% off,31999,vivo T3 Ultra,256 GB,Mediatek
+4.4,10584,20% off,15999,realme P3 5G,128 GB,Snapdragon
+4.3,1851,23% off,12999,Infinix Note 50x 5G,128 GB,Mediatek
+4.5,18873,22% off,27999,vivo T3 Ultra,128 GB,Mediatek
+4.2,1566,2% off,9295,realme Narzo N61,128 GB,Mediatek
+4.3,56704,22% off,13999,Motorola g64 5G,128 GB,Mediatek
+4.4,8829,35% off,12190,IQOO z9x,128 GB,Snapdragon
+4.4,6400,27% off,18740,IQOO Z9s 5G,128 GB,Mediatek
+4.4,6400,29% off,18315,IQOO Z9s 5G,128 GB,Mediatek
+4.4,63419,28% off,29999,Motorola Edge 50 Pro 5G,256 GB,Snapdragon
+4.4,126411,24% off,18999,vivo T3 5G,256 GB,Mediatek
+4.6,1014,8% off,54900,Apple iPhone 16e,128 GB,Apple
+4.4,20894,18% off,17130,OnePlus Nord CE4 lite 5G,128 GB,Qualcomm
+4.2,2635,24% off,16154,Samsung Galaxy A16 5G,128 GB,Mediatek
+4.4,8969,28% off,17999,Infinix Note 50s 5G,256 GB,Mediatek
+4.4,26715,33% off,19999,Motorola Edge 50 Neo,256 GB,Mediatek
